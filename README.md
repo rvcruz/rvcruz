@@ -1,14 +1,12 @@
 ### ¡Hola! 👋, estoy en construcción.
 
-<!--
-**rvcruz/rvcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 Sobre mi:
 
 - 🔭 Licenciatura en Ingeniería en Ciencia de Datos
 - 🌱 Generación 2022
 - ⚡ Ayudante Docencia-Investigación [Facultad Matemáticas y CENIA-IEA]
--->
+
 
 
 # 💻 Bases:
