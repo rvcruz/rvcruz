@@ -5,7 +5,8 @@
 
 - 🔭 Licenciatura en Ingeniería en Ciencia de Datos
 - 🌱 Generación 2022
-- ⚡ Ayudante Docencia-Investigación [Facultad Matemáticas y CENIA-IEA]
+- ⚡ Ayudante Docencia  [Facultad Matemáticas 2023-2025]
+- ⚡ Ayudante Investigación  [CENIA-IEA 2023-2024]
 - ⚙ Trabajando como Data Engineer.
 
 
